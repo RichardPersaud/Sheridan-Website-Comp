@@ -1,0 +1,69 @@
+html{
+	height: 1000px;
+	background: linear-gradient(#fff, aqua);
+background-repeat: no-repeat;
+}
+
+body{
+font-size: 1em;
+font-family: sans-serif;
+}
+
+.logo img{
+	float: left;
+	border-radius: 50%;
+	position: relative;
+}
+
+.navBar li{
+	margin-left: 20px;
+	padding: 5px;
+	background-color: #193a67;
+	border-radius: 5px;
+	display: inline-block;
+	list-style: none;
+}
+
+.navBar a{
+	text-decoration: none;
+		color: #fff;
+}
+
+.main_content h1{
+	padding: 10px;
+text-align: center;
+}
+
+.buttons img{
+ width: 10%;
+ margin-top: 50px;
+ margin-left: 50px;
+
+}
+
+.regis{
+	width: 40%;
+	position: absolute;
+	margin-left: 20%;
+	margin-top: 70px;
+	background-color: #fff;
+	padding: 20px;
+}
+input{
+	float: right;
+	padding: 5px;
+	margin-top:2px;
+}
+
+.FAQ{
+	background-color: #fff;
+	margin-left: 15%;
+	margin-top: 50px;
+	padding: 20px;
+	width: 70%;
+
+}
+
+.faq_main{
+	margin-top: 50px;
+}
